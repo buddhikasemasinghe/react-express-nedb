@@ -1,0 +1,3 @@
+{"_id":1,"name":"User1","desc":"First User1","scopes":["a","b","c"]}
+{"_id":2,"name":"User2","desc":"First User2","scopes":["a","b","c"]}
+{"name":"User3","_id":3,"scopes":["x","y"]}
